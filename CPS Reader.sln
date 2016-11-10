@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPS Reader", "CPS Reader\CPS Reader.csproj", "{C060317B-9ACD-4E0D-9518-0B2800A00002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext", "..\WebSiteInfoScrapper\Ext\Ext.csproj", "{1D42B811-C029-41FE-8B5E-748F41025709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseClient|Any CPU = ReleaseClient|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.ReleaseClient|Any CPU.ActiveCfg = Release|Any CPU
+		{C060317B-9ACD-4E0D-9518-0B2800A00002}.ReleaseClient|Any CPU.Build.0 = Release|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.ReleaseClient|Any CPU.ActiveCfg = ReleaseClient|Any CPU
+		{1D42B811-C029-41FE-8B5E-748F41025709}.ReleaseClient|Any CPU.Build.0 = ReleaseClient|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
